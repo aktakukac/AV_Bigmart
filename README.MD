@@ -2,7 +2,6 @@
 title: "Bigmart data challenge"
 author: "Mihaly Garamvolgyi"
 date: "13 Feb 2016"
-output: html_document
 ---
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -20,3 +19,5 @@ plot(cars)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+![alt tag](https://github.com/aktakukac/AV_Bigmart/blob/master/scatter_mrp_sales_outlet_type.png)
