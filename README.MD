@@ -1,23 +1,23 @@
 ---
-title: "Bigmart data challenge"
+title: "Big Mart data challenge"
 author: "Mihaly Garamvolgyi"
 date: "13 Feb 2016"
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This repository contains my solutions for Analytics Vidhya - BigMart sales prediction data mining competition. For further details see link: <http://datahack.analyticsvidhya.com/contest/practice-problem-bigmart-sales-prediction>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+My solution resulted in an initial 42nd place.
 
-```{r}
-summary(cars)
-```
+The solution contains implementation with the following packages:
 
-You can also embed plots, for example:
+`XGBoost`
+`Caret and CaretEnsemble`
+`h2o`
 
-```{r, echo=FALSE}
-plot(cars)
-```
+Some data discovery images are also added. 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+I am still working on my solution so I will post additional solutions as I am happy with them.
 
 ![alt tag](https://github.com/aktakukac/AV_Bigmart/blob/master/scatter_mrp_sales_outlet_type.png)
+
+
