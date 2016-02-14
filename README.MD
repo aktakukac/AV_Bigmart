@@ -10,9 +10,9 @@ My solution resulted in an initial 42nd place.
 
 The solution contains implementation with the following packages:
 
-`XGBoost`
-`Caret and CaretEnsemble`
-`h2o`
+`XGBoost` </br>
+`Caret and CaretEnsemble`</br>
+`h2o`</br>
 
 Some data discovery images are also added. 
 
