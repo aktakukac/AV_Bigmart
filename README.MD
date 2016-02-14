@@ -6,6 +6,8 @@ date: "13 Feb 2016"
 
 This repository contains my solutions for Analytics Vidhya - BigMart sales prediction data mining competition. For further details see link: <http://datahack.analyticsvidhya.com/contest/practice-problem-bigmart-sales-prediction>.
 
+The problem is solved in R. 
+
 My solution resulted in an initial 42nd place.
 
 The solution contains implementation with the following packages:
